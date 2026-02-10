@@ -1,20 +1,30 @@
-
-# Setup
-
-## 1.  Windows ##
-
-   * ### Download glfw libray from https://www.glfw.org/download.html. Download *64-bit Windows binaries* from *Windows pre-compiled binaries*. ###  
-   * ### Create **build** and **lib** folder in Code Repo. Put *glfw3.dll* from *lib-mingw-w64* folder of glfw library to **build** and **lib** folder.  ###
-   * ### For C++ compiler and make, Download MSYS2 Package Manager from https://www.msys2.org/ . ###  
-   * ### Run following commands in MSYS2 terminal: ```pacman -S base-devel``` and ```pacman -S gcc``` . ### 
-   * ### add your bin folder (which includes g++.exe and make.exe) PATH (C:\msys64\usr\bin) of msys64 installation directory in your environment variable.
-   * ### Run ```make win``` in Terminal. ###
-   * ### ```.exe``` file will be in **build** folder. ###
-   * ### if your code does not run, then you have to check openGL version by installing GLview from http://www.realtech-vr.com/home/glview . If your openGL version is below 3.3, then update windows. ### 
-​
-## 2. Linux ##
-
-   * ### Run following command in Terminal:  ```sudo apt-get install libglfw3-dev``` ###  
-   * ### Create **build** and **lib** folder in Code Repo. ###
-   * ### Run ```make linux``` in terminal. ###
-   * ### executable file will be in **build** folder. ###
+# OpenGL Project: Two Cyan Obtuse Triangles
+Name: Md. Tanvir Rahman
+Id: 0432320005101116
+# Project Description
+This OpenGL project shows how to draw two cyan-colored obtuse triangles positioned at two distant corners of the window. The background color of the window is orange. The window title is set to "Md. Tanvir Rahman". The program also allows the user to close the window by pressing the first letter of the name, "T", on the keyboard.
+# Features:
+* orange color background.
+* two obtuse triangles in cyan color.
+* triangles are positioned at opposite corners.
+* Pressing "T" closed the window. 
+# 📂 Project Structure
+Project Folder
+│
+├── build/
+│   └── main.exe
+│
+├── include/
+│   ├── glad.h
+│   └── glfw3.h
+│
+├── lib/
+│   └── glfw3.dll
+│
+├── src/
+│   ├── main.cpp
+│   └── glad.c
+│
+├── Makefile
+└── README.md
+# Output:
