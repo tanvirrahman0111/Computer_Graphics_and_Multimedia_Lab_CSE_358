@@ -8,13 +8,7 @@ This OpenGL project shows how to draw two cyan-colored obtuse triangles position
 * two obtuse triangles in cyan color.
 * triangles are positioned at opposite corners.
 * Pressing "T" closed the window. 
-# 📂 Project Structure
-File Structure
-/project-root
-│
-├── main.cpp         # Main source code with OpenGL setup, shader code, and rendering
-├── README.md        # This file
-├── glad.h / glad.c  # GLAD loader files
-└── shaders/         # Optional folder for separate shader files
+
+
 
 
