@@ -67,25 +67,26 @@ This project is a simple OpenGL program that draws a single triangle and applies
 - GLAD
 
 ---
+## 📂 Project Structure
 
-.
-├── build/
-│   ├── glfw3.dll
-│   └── main.exe
-├── include/
-│   ├── glad.h
-│   └── glfw3.h
-├── lib/
-│   └── glfw3.dll
-├── src/
-│   ├── glad.c
-│   └── main.cpp
-├── Cyan color.png
-├── Magenda color.png
-├── Makefile
-├── ReadMe.md
-├── Red Color.png
-└── White color.png
+```text
+build/
+├── glfw3.dll
+└── main.exe
+include/
+├── glad.h
+└── glfw3.h
+lib/
+└── glfw3.dll
+src/
+├── glad.c
+└── main.cpp
+Cyan color.png
+Magenda color.png
+Makefile
+ReadMe.md
+Red Color.png
+White color.png
 
 ---
 
