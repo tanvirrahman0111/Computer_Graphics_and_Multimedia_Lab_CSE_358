@@ -1,3 +1,5 @@
+
+
 # 🎯 OpenGL Triangle Animation
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-3.3-blue)
@@ -5,6 +7,10 @@
 ![Library](https://img.shields.io/badge/GLFW-Enabled-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+
+---
+# Name: Md. Tanvir Rahman
+# ID: 0432320005101116
 ---
 
 ## 📌 Overview
@@ -64,13 +70,23 @@ This project is a simple OpenGL program that draws a single triangle and applies
 
 ## 📂 Project Structure
 
-.
-├── main.cpp  
-├── README.md  
-└── screenshots/  
-&nbsp;&nbsp;&nbsp;&nbsp;├── animation.png  
-&nbsp;&nbsp;&nbsp;&nbsp;├── white_mode.png  
-&nbsp;&nbsp;&nbsp;&nbsp;└── red_mode.png  
+build/
+├── glfw3.dll
+└── main.exe
+include/
+├── glad.h
+└── glfw3.h
+lib/
+└── glfw3.dll
+src/
+├── glad.c
+└── main.cpp
+Cyan color.png
+Magenda color.png
+Makefile
+ReadMe.md
+Red Color.png
+White color.png
 
 ---
 
@@ -81,7 +97,26 @@ This project is a simple OpenGL program that draws a single triangle and applies
 - GLAD
 - C++ Compiler
 
-### Build
+---
 
-```bash
-g++ main.cpp -lglfw -lGL -ldl -o triangle
+
+## ⚠️ Important Notes
+
+Pressing R will permanently stop animation
+
+Animation will NOT resume after red mode
+
+Late submissions are not accepted
+
+---
+## 📚 Learning Outcomes
+
+Understanding OpenGL rendering pipeline
+
+Working with shaders and uniforms
+
+Handling real-time user input
+
+Implementing animation using math functions
+
+---
