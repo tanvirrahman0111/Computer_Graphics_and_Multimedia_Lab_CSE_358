@@ -149,4 +149,5 @@ Through this project, the following concepts were practiced:
 
 ## Output Screenshot
 
-![Assignment-05](Output-1%20(Red%20color).png)
+![Assignment-05](Output-1%20(Red%20color).png) <br>
+![Assignment-05](Output-2%20(White%20color).png)
