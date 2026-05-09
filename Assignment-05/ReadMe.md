@@ -104,17 +104,24 @@ Rotation is performed around the **Z-axis**, which creates spinning in the XY pl
 | **T** | Close the window |
 
 ---
+## 📂 Project Structure
 
-## File Structure
-
-```plaintext
-Project Folder/
-│── main.cpp
-│── glad.h
-│── glfw3.h
-│── stb_image.h
-│── shader_m.h
-│── README.md
+```text
+build/
+├── glfw3.dll
+└── main.exe
+include/
+├── glad.h
+└── glfw3.h
+lib/
+└── glfw3.dll
+src/
+├── glad.c
+└── main.cpp
+Output-1 (Red color).png
+Output-2 (White color).png
+Makefile
+ReadMe.md
 ```
 
 ---
