@@ -16,8 +16,8 @@
 | **Team Name** | Thunder Drivers ⚡ |
 | **Course** | Computer Graphics & Multimedia Lab (CSE 358) |
 
-| Role | Student ID |
-|------|-----------|
+| Role | Student Name | Student ID |
+|------|---------|-----|
 | 👑 Leader | Md. Tanvir Rahman | 0432320005101116 |
 | Member 2 | Faisal Ahmed | 0432320005101129 |
 | Member 3 | Md. Sayed | 0432320005101148 |
