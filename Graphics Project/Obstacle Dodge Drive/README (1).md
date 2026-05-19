@@ -18,9 +18,9 @@
 
 | Role | Student ID |
 |------|-----------|
-| 👑 Leader | 0432320005101116 |
-| Member 2 | 0432320005101129 |
-| Member 3 | 0432320005101148 |
+| 👑 Leader | Md. Tanvir Rahman | 0432320005101116 |
+| Member 2 | Faisal Ahmed | 0432320005101129 |
+| Member 3 | Md. Sayed | 0432320005101148 |
 
 ---
 
