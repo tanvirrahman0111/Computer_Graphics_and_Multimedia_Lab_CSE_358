@@ -14,7 +14,7 @@
 | Field | Details |
 |-------|---------|
 | **Team Name** | Thunder Drivers ⚡ |
-| **Course** | Computer Graphics & Multimedia (CSE 358) |
+| **Course** | Computer Graphics & Multimedia Lab (CSE 358) |
 
 | Role | Student ID |
 |------|-----------|
@@ -93,6 +93,7 @@ Car Racing/
 │   └── glad.c            # GLAD OpenGL loader
 │
 ├── include/
+│   ├── glm 
 │   ├── glad.h            # GLAD header
 │   └── glfw3.h           # GLFW header
 │
